@@ -1,12 +1,21 @@
 .jumbotron {
   padding-top: 5rem;
-  background-color: #bef0f0;
+  background-color: #03fa00;
 }
 
 #projects {
-  background-color: #bef0f0;
+  background-color: #03fa00;
 }
 
 section {
   padding-top: 5rem;
+}
+
+.branding {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.bg-ijo {
+  background-color: #02c700;
 }
